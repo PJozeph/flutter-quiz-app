@@ -7,6 +7,9 @@
 .buildlog/
 .history
 
+Info.plist
+analysis_options.yaml
+
 
 
 # Flutter repo-specific
